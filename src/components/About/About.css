@@ -1,0 +1,19 @@
+.about-section {
+    background: linear-gradient(135deg, #f9f9f9, #e9ecef);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 3rem 0;
+  }
+  
+  .about-image {
+    max-width: 300px; /* Limit the image size */
+  }
+  
+  .highlight {
+    color: #0d6efd; /* Bootstrap primary color */
+  }
+  
+  .about-description p {
+    line-height: 1.8;
+  }
+  
